@@ -1,0 +1,1 @@
+$xddialog->send($_POST['message']);
